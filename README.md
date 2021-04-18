@@ -14,7 +14,7 @@ Quizas con el tiempo llegue/mos a contribuir no se cuanto tiempo se llegue a dis
 
 ## Como puedo contribuir?
 
-Quieres colaborar con alguna guia puedes mandar tu fichero markdown a traves de:
+Quieres colaborar con alguna guia puedes mandar tu fichero markdown con las imagenes respectivas que desarrolles por los siguientes medios:
 
 Github
 
