@@ -9,6 +9,8 @@ description: >-
 ### Consulta
 
 > @pituxmat Hola, muy buenas. ¿Alguien sabe como buscar en obsidian un grupo de documentos por fecha? Por ejemplo, los últimos 3 días, algo así como: "last 3 days" y que muestre todos los documentos de los últimos tres días. ¡Gracias!
+>
+> Fuente: Grupo de Telegram
 
 ### Dataview
 
@@ -40,8 +42,6 @@ Si deseamos que nos extraiga de los ultimos 7 dias solo debemos de cambiar el va
 {% hint style="info" %}
 Conoces otra manera de solucionar este problema? Comparte con la comunidad, por medio de [_**Telegram**_](https://t.me/ObsidianEs) o el [_**GITHUB**_](https://github.com/Snifer/Obsidian) de este repositorio. 
 {% endhint %}
-
-
 
 
 
