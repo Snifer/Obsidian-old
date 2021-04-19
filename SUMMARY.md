@@ -16,7 +16,18 @@
 
 * [Que es sincronizar](sincronizacion-del-vault-con-otros-dispositivos/que-es-sincronizar.md)
 
+## Tips  y Plugins
+
+* [Plugins](tips-y-plugins/plugins/README.md)
+  * [Dataview](tips-y-plugins/plugins/dataview.md)
+
+## Dudas y Soluciones
+
+* [Indice](dudas-y-soluciones/indice/README.md)
+  * [Visualizar ultimas modificaciones en un lapso de tiempo](dudas-y-soluciones/indice/visualizar-ultimas-modificaciones-en-un-lapso-de-tiempo.md)
+
 ## Pandoc
 
-* [Untitled](pandoc/untitled.md)
+* [Pandoc](pandoc/pandoc-1/README.md)
+  * [Generar documento Word](pandoc/pandoc-1/untitled.md)
 
