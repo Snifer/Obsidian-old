@@ -1,3 +1,9 @@
+---
+description: >-
+  Ver todos los cambios de un periodo de tiempo a través del plugin Dataview de
+  Obsidian
+---
+
 # Visualizar ultimas modificaciones en un lapso de tiempo
 
 @pituxmat Hola, muy buenas. ¿Alguien sabe como buscar en obsidian un grupo de documentos por fecha? Por ejemplo, los últimos 3 días, algo así como: "last 3 days" y que muestre todos los documentos de los últimos tres días. ¡Gracias!
