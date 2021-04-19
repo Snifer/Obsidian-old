@@ -6,13 +6,13 @@ description: >-
 
 # Visualizar ultimas modificaciones en un lapso de tiempo
 
-@pituxmat Hola, muy buenas. ¿Alguien sabe como buscar en obsidian un grupo de documentos por fecha? Por ejemplo, los últimos 3 días, algo así como: "last 3 days" y que muestre todos los documentos de los últimos tres días. ¡Gracias!
+### Consulta
 
-### Posibles soluciones
+> @pituxmat Hola, muy buenas. ¿Alguien sabe como buscar en obsidian un grupo de documentos por fecha? Por ejemplo, los últimos 3 días, algo así como: "last 3 days" y que muestre todos los documentos de los últimos tres días. ¡Gracias!
 
-#### Dataview
+### Dataview
 
-Usando el plugin Dataview [https://github.com/blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) es posible listar las ultimas modificaciones durante un periodo de tiempo. 
+Usando el plugin Dataview [https://github.com/blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) es posible listar las ultimas modificaciones durante un periodo de tiempo, para ello procedemos a tener en una nueva nota donde deseamos tener la extracción de los datos. 
 
 ![Ejemplo de arbol de directorios](../../.gitbook/assets/image%20%284%29.png)
 
