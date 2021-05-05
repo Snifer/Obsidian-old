@@ -35,3 +35,8 @@
 
 * [Listado de canales](canales-de-youtube/listado-de-canales.md)
 
+## Charlas de la comunidad
+
+* [Charlas en Ingles](charlas-de-la-comunidad/english-talks/README.md)
+  * [Zotero 101 \(Ingles\)](charlas-de-la-comunidad/english-talks/zotero-101-ingles.md)
+
