@@ -39,5 +39,5 @@
 
 ## Canales de Youtube
 
-* [Listado de canales](canales-de-youtube/listado-de-canales.md)
+* [Español](canales-de-youtube/listado-de-canales.md)
 
