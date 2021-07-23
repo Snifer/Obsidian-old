@@ -18,7 +18,7 @@
 
 ## Tips  y Plugins
 
-* [Plugins](tips-y-plugins/plugins/README.md)
+* [Recall](tips-y-plugins/plugins/README.md)
   * [Dataview](tips-y-plugins/plugins/dataview.md)
 
 ## Dudas y Soluciones
@@ -31,12 +31,13 @@
 * [Pandoc](pandoc/pandoc-1/README.md)
   * [Generar documento Word](pandoc/pandoc-1/untitled.md)
 
-## Canales de Youtube
-
-* [Listado de canales](canales-de-youtube/listado-de-canales.md)
-
 ## Charlas de la comunidad
 
 * [Charlas en Ingles](charlas-de-la-comunidad/english-talks/README.md)
+  * [Introducción a Dataview \(Ingles\)](charlas-de-la-comunidad/english-talks/introduccion-a-dataview-ingles.md)
   * [Zotero 101 \(Ingles\)](charlas-de-la-comunidad/english-talks/zotero-101-ingles.md)
+
+## Canales de Youtube
+
+* [Listado de canales](canales-de-youtube/listado-de-canales.md)
 
