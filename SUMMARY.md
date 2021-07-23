@@ -18,7 +18,7 @@
 
 ## Tips  y Plugins
 
-* [Plugins](tips-y-plugins/plugins/README.md)
+* [index](tips-y-plugins/plugins/README.md)
   * [Dataview](tips-y-plugins/plugins/dataview.md)
 
 ## Dudas y Soluciones
