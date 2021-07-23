@@ -1,5 +1,5 @@
 ---
-description: Uso de Plugin Recall
+description: 'Uso de Plugin Recall https://github.com/martin-jw/obsidian-recall'
 ---
 
 # Recall
