@@ -1,4 +1,8 @@
-# index
+---
+description: Uso de Plugin Recall
+---
+
+# Recall
 
 Este plugin se basa en el método de la repetición espaciada, conocido en inglés como active recall. Usa distintos algoritmos como Anki, SM2 y Leitner. Para empezar a usarlo se lo tiene que descargar de la comunidad de plugins, una vez activado puedes ir a la nota en la que desees usar esta técnica.
 
