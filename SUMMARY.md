@@ -18,8 +18,8 @@
 
 ## Tips  y Plugins
 
-* [Recall](tips-y-plugins/plugins/README.md)
-  * [Dataview](tips-y-plugins/plugins/dataview.md)
+* [Dataview](tips-y-plugins/dataview.md)
+* [Recall](tips-y-plugins/plugins.md)
 
 ## Dudas y Soluciones
 
